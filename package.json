@@ -31,5 +31,8 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "author": ""
+  "author": "",
+  "directories": {
+    "doc": "docs"
+  }
 }

@@ -33,6 +33,7 @@
   "main": "index.js",
   "author": "",
   "directories": {
-    "doc": "docs"
+    "doc": "docs",
+    "test": "test"
   }
 }

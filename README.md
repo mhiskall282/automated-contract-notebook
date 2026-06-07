@@ -30,10 +30,10 @@ This repository is an **automated learning laboratory** for Solidity smart contr
 |--------|-------|
 | 📜 Smart Contracts | **0** |
 | 🧪 Test Files | **569** |
-| 🚀 Scripts | **21** |
+| 🚀 Scripts | **20** |
 | 📚 Documentation | **557** |
-| 🔄 Total Commits | **2221** |
-| ⏰ Last Update | 2026-06-07 09:33 UTC |
+| 🔄 Total Commits | **2222** |
+| ⏰ Last Update | 2026-06-07 12:57 UTC |
 
 ---
 
@@ -266,7 +266,7 @@ This is an automated learning repository, but suggestions are welcome!
 ```
 Contracts: ████████████████████ 0
 Tests:     ████████████████░░░░ 569
-Scripts:   ████████░░░░░░░░░░░░ 21
+Scripts:   ████████░░░░░░░░░░░░ 20
 Docs:      ██████░░░░░░░░░░░░░░ 557
 ```
 
@@ -292,7 +292,7 @@ If you find this repository helpful for learning Solidity, please consider givin
 
 ---
 
-**Last automated update**: 2026-06-07 09:33:50 UTC  
+**Last automated update**: 2026-06-07 12:57:26 UTC  
 **Status**: 🟢 Active & Learning  
 **Next update**: In ~5 minutes
 
